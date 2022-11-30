@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "run-our-bookclub",
+    "slug": "run-our-bookclub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "run-our-bookclub"
+}
